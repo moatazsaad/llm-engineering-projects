@@ -1,6 +1,6 @@
 # LLM Portfolio
 
-> ⚠️ **Note:** This repository contains my initial LLM projects from when I first started exploring large language models.  
+> **Note:** This repository contains my initial LLM projects from when I first started exploring large language models.  
 
 My more recent LLM projects are in separate repositories:  
 - [Legal AI Assistant](https://github.com/moatazsaad/legal-ai-assistant)  
